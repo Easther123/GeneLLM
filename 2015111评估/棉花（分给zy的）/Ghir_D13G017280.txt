@@ -1,0 +1,7 @@
+GO:0006281 - DNA repair.
+GO:0051276 - chromosome organization.
+GO:0009826 - fiber development (cotton-specific).
+GO:0000796 - structural maintenance of chromosomes.
+GO:0005524 - ATP binding.
+GO:0005634 - nucleus.
+GO:0030912 - SMC5/6 complex.

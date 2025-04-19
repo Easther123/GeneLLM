@@ -1,0 +1,6 @@
+GO:0006348 - chromatin silencing.
+GO:0009733 - response to auxin.
+GO:0009414 - response to water deprivation.
+GO:0018024 - histone-lysine N-methyltransferase activity.
+GO:0005515 - protein binding.
+GO:0000785 - chromatin.

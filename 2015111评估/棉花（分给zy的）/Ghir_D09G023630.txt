@@ -1,0 +1,6 @@
+GO:0009834 - secondary cell wall biogenesis.
+GO:0009734 - auxin-activated signaling pathway.
+GO:0009414 - response to water deprivation.
+GO:0003700 - DNA-binding transcription factor activity.
+GO:0043565 - sequence-specific DNA binding.
+GO:0005634 - nucleus.

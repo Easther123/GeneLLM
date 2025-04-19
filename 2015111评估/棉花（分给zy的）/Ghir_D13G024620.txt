@@ -1,0 +1,9 @@
+GO:0006950 - response to stress.
+GO:0009814 - defense response to fungus.
+GO:0019748 - secondary metabolite biosynthetic process.
+GO:0042542 - response to hydrogen peroxide.
+GO:0043481 - anthocyanin-containing compound biosynthetic process.
+GO:0016491 - oxidoreductase activity.
+GO:0003700 - DNA-binding transcription factor activity.
+GO:0005737 - cytoplasm.
+GO:0005634 - nucleus.

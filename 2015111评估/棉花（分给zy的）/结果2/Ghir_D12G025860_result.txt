@@ -1,0 +1,3 @@
+TP: 0, FP: 0, FN: 6
+Precision: 0.00, Recall: 0.00, AUC: N/A
+Similarity Threshold: 0.7

@@ -1,0 +1,6 @@
+GO:0005975 - carbohydrate metabolic process.
+GO:0048364 - root development.
+GO:0006950 - response to stress.
+GO:0016757 - transferase activity, transferring glycosyl groups.
+GO:0005524 - ATP binding.
+GO:0009505 - plant-type cell wall.

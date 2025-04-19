@@ -1,0 +1,11 @@
+GO:0009686 - gibberellin catabolic process.
+
+GO:0048440 - flower development.
+
+GO:0009733 - response to auxin.
+
+GO:0016706 - oxidoreductase activity, acting on paired donors.
+
+GO:0055114 - oxidation-reduction process.
+
+GO:0005634 - nucleus.

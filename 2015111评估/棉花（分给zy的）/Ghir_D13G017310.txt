@@ -1,0 +1,6 @@
+GO:0009826 - unidimensional cell growth.
+GO:0009733 - auxin-mediated signaling pathway.
+GO:0009409 - response to cold.
+GO:0003700 - DNA-binding transcription factor activity.
+GO:0005515 - protein binding.
+GO:0005634 - nucleus.
